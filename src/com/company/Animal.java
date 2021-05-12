@@ -5,9 +5,6 @@ public class Animal {
     private Color color;
     private LivingArea area;
 
-    public Animal() {
-    }
-
     public Animal(int weight, Color color, LivingArea area) {
         this.weight = weight;
         this.color = color;
